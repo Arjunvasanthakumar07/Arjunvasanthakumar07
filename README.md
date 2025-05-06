@@ -11,7 +11,7 @@
 ---
 
 ### 🎓 Education
-- Graduated with a **AEC Diploma** in **Network and security** from**Institut supérieur d’informatique (ISI)**  
+- Graduated with a **AEC Diploma** in **Network and security** from **Institut supérieur d’informatique (ISI)**  
   Graduated with a **B.Tech** in **Electronics And Communication** from **Toch Institute of Science and Technology**.
 
 ### 🏆 Certifications:
@@ -34,11 +34,12 @@
 ---
 
 ### 🔧 Technologies & Tools:
-- **Active Directory**
-- **Network Security**
-- **Linux**
-- **SQL Injection Detection**
-- **Vulnerability Management**
+- **Active Directory** 🏢
+- **Network Security** 🔐
+- **Linux** 🐧
+- **SQL Injection Detection** 💻
+- **Vulnerability Management** 🛡️
+
 
 ---
 
