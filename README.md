@@ -1,10 +1,5 @@
 # 👋 Hi there, I'm [@Arjunvasanthakumar07](https://github.com/Arjunvasanthakumar07) (Arjun)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_logo.png" width="120"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/IBM_logo.png" width="90"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Qualys_logo.svg" width="90"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="60"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Udemy_logo.svg" width="100"/>
 
 ---
 
