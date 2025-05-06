@@ -11,8 +11,8 @@
 ---
 
 ### 🎓 Education
-- **Institut supérieur d’informatique (ISI)**  
-  Graduated with a **B.Tech** in **Network and Security** from **Toch Institute of Science and Technology**.
+- Graduated with a **AEC Diploma** in **Network and security** from**Institut supérieur d’informatique (ISI)**  
+  Graduated with a **B.Tech** in **Electronics And Communication** from **Toch Institute of Science and Technology**.
 
 ### 🏆 Certifications:
 - ![Google Logo](https://upload.wikimedia.org/wikipedia/commons/5/53/Google_logo.png) **Google Cybersecurity**  
